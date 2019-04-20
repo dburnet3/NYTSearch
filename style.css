@@ -1,0 +1,14 @@
+.jumbotron{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.flex_container {
+    display:flex;
+}
+
+.btn{
+    margin-left: 10px;
+}
